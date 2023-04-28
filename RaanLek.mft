@@ -1,0 +1,4 @@
+Main-Class: com.alasnome.apps.RaanLek._RaanLek
+Class-Path: _sbcommon.jar _sbdao.jar .
+
+
